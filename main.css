@@ -1,0 +1,45 @@
+html {
+    font-family:
+        "Helvetica", "Arial", sans-serif;
+}
+
+body {
+    margin: 0px;
+}
+
+a {
+    color: #000000;
+}
+
+a:visited {
+    color: #000000;
+}
+
+.header-image {
+    height: 28px;
+    max-width: 100%;
+    object-fit: cover;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+}
+
+.header-links {
+}
+.header-link {
+    padding-right: 5px;
+}
+
+.width {
+    max-width: 730px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:16px;
+    margin-bottom:16px;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+.title {
+    font-size: 32px;
+    line-height: 58px;
+}
