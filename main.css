@@ -50,16 +50,16 @@ a:visited {
 .work-item-title {
     font-weight: bold;
     margin-top: 8px;
-    margin-bottom: 8px;
+    margin-bottom: 0px;
 }
 .work-item-time {
     font-style: italic;
-    margin-top: 8px;
-    margin-bottom: 8px;
+    margin-top: 2px;
+    margin-bottom: 0px;
 }
 .work-item-content {
     margin-top: 8px;
-    margin-bottom: 8px;
+    margin-bottom: 0px;
 }
 .work-item-list {
     margin-top: 8px;
